@@ -141,7 +141,9 @@ section {
   
 }
 
-#new
+#featured-property {
+  position: relative;
+}
 
 
 
