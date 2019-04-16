@@ -142,8 +142,7 @@ section {
 }
 
 #featured-property {
-  position: relative;
-  top: 120px;
+  display: inline-block;
 }
 
 
