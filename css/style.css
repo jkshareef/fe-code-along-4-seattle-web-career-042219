@@ -125,6 +125,7 @@ img, video, audio {
 /*/////// SECTION /////*/
 
 section {
+  margin-bottom: 20px;
   padding: 20px;
   
 }
